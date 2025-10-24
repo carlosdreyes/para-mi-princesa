@@ -1,0 +1,7 @@
+
+function historia(){
+let resultadoDiv = document.getElementById("r");
+  resultadoDiv.textContent ="recuerdo cuando te vi en el salón de ciencias, me pareciste hermosisima y desde ahí empezó todo, cuando te mande solicitud me sentía muy nervioso la verdad pero en cuanto vi que aceptaste se convirtió en felicidad  Luego cuando empezamos a hablar me enamoré perdidamente de ti y tu forma de tratarme, nunca me había sentido tan especial como me haces sentir. \hCuando descubrí que tu tambien sientes lo mismo moría de felicidad, desde ese momento me hiciste el hombre más feliz del mundo aunque me frustre un poquito cuando me entere que no podíamos ser nada aun, pero la espera valió totalmente la pena ya que eres lo mejor que me ha pasado en la vida, cuando empezamos a andar me fui a mi casa tan emocionado de estar con el amor de mi vida que no podía creer el estar contigo. Nuestra primera salida yo estaba más nervioso que nunca, recuerdo lo hermosa que te veías ese dia y el que ese dia te di tu anillo de promesa, recuerdo muy bien que fue un 16 de junio ya que ese dia marco mi vida casi tanto como el 10 que fue el día que empezamos a estar juntos, desde que te conocí me has hecho mas y mas feliz y se que esta historia tendrá mucho más por escribirse te amo con todo mi ser";
+
+
+}
